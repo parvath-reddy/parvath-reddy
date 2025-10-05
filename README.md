@@ -1,6 +1,5 @@
-## Data Analyst & Data Scientist 
-Skilled in Python, SQL, Excel, Power BI, Tableau & Data Visualization 
-Google Data Analytics Certified 
+## Data Scientist | ML Engineer | Specializing in Generative AI & Agentic Systems
+Google & Oracle Certified
 Final-year CSE Student at VIT
 
 ## 🌐 Socials:
@@ -16,7 +15,7 @@ Final-year CSE Student at VIT
 ![](https://nirzak-streak-stats.vercel.app/?user=parvath-reddy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parvath-reddy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
